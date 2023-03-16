@@ -5,7 +5,7 @@ For this project I have taken all sales data of transactions from my eBay store 
 
 ## Relevant Python Packages
 
-See Requirements.txt file
+Use the pip install -r requirements.txt command to install all of the Python modules and packages listed in your requirements.txt file.
 
 
 
